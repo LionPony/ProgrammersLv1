@@ -20,7 +20,6 @@ public class FactorizationTest {
         test.add(12);
         test.add(18);
         test.add(36);
-        ArrayList<Integer> answer = factorization.factorization(36);
         Assert.assertArrayEquals(test.toArray(), factorization.factorization(36).toArray());
     }
 }
