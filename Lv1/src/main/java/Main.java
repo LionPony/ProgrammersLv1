@@ -15,5 +15,10 @@ public class Main {
         // 나머지가 1이 되는 수 찾기
         // https://school.programmers.co.kr/learn/courses/30/lessons/87389
         FindRemainOne findRemainOne = new FindRemainOne();
+
+        // 약수의 합
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12928
+        SumOfDivisor sumOfDivisor = new SumOfDivisor();
+
     }
 }

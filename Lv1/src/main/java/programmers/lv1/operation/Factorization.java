@@ -30,7 +30,7 @@ public class Factorization {
         allFactors.sort(Comparator.naturalOrder());
 
         // If square root of n is integer. It duplicates.
-        if(Math.pow(Math.sqrt(n), 2) == n){
+        if(Math.pow((int) Math.sqrt(n), 2) == n && n != 0){
             allFactors.remove(allFactors.size()/2);
         }
 
