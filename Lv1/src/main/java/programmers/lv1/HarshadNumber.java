@@ -9,9 +9,10 @@ public class HarshadNumber {
     // Determine given x is harshad number or not.
     // 1 <= x <= 10,000
     public boolean harshadNumber(int x){
+        // Sum digits.
         AddDigits addDigits = new AddDigits();
         int isHarshad = addDigits.addDigits(x);
-
+        // Make factors array. Time complexity is O(log N).
         Factorization factorization = new Factorization();
         ArrayList<Integer> factors = factorization.factorization(x);
 
