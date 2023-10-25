@@ -3,6 +3,7 @@
 import programmers.lv1.*;
 import programmers.lv1.operation.Average;
 import programmers.lv1.operation.DotProduction;
+import programmers.lv1.operation.MatrixAdd;
 
 @SuppressWarnings({"unused", "SpellCheckingInspection"})
 public class Main {
@@ -122,5 +123,12 @@ public class Main {
         // 문자열 다루기 기본
         // https://school.programmers.co.kr/learn/courses/30/lessons/12918
         IsInteger isInteger = new IsInteger();
+
+        // 행렬의 덧셈
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12950
+        MatrixAdd matrixAdd = new MatrixAdd();
+
+        // 직사각형 별찍기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12969
     }
 }
