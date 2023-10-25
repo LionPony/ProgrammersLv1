@@ -106,5 +106,9 @@ public class Main {
         // 내적
         // https://school.programmers.co.kr/learn/courses/30/lessons/70128
         DotProduction dotProduction = new DotProduction();
+
+        // 약수의 개수와 덧셈
+        // https://school.programmers.co.kr/learn/courses/30/lessons/77884
+        DivisorNumberSum divisorNumberSum = new DivisorNumberSum();
     }
 }
