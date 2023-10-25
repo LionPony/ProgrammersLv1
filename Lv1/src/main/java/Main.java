@@ -3,6 +3,7 @@
 import programmers.lv1.*;
 import programmers.lv1.operation.Average;
 
+@SuppressWarnings({"unused", "SpellCheckingInspection"})
 public class Main {
     public static void main(String[] args) {
         // 자릿수 더하기
@@ -56,5 +57,11 @@ public class Main {
         // 두 정수 사이의 합
         // https://school.programmers.co.kr/learn/courses/30/lessons/12912
         SumBtw2Nums sumBtw2Nums = new SumBtw2Nums();
+
+        // 콜라츠 추측
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12943
+        CollatzConjecture collatzConjecture = new CollatzConjecture();
+
+
     }
 }
