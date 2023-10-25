@@ -32,5 +32,9 @@ public class Main {
         // X만큼 간격이 있는 N개의 숫자
         // https://school.programmers.co.kr/learn/courses/30/lessons/12954
         NnumbersOfXInterval nnumbersOfXInterval = new NnumbersOfXInterval();
+
+        // 문자열을 정수로 바꾸기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12925
+        ParseInteger parseInteger = new ParseInteger();
     }
 }
