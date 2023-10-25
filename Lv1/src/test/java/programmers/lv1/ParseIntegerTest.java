@@ -8,7 +8,7 @@ import org.junit.Test;
 public class ParseIntegerTest {
     // String to int.
     @Test
-    public void parseIntger() {
+    public void parseInteger() {
         ParseInteger parseInteger = new ParseInteger();
         Assert.assertEquals(1234, parseInteger.parseIntger("1234"));
     }
