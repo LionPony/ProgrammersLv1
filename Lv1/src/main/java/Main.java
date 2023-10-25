@@ -110,5 +110,9 @@ public class Main {
         // 약수의 개수와 덧셈
         // https://school.programmers.co.kr/learn/courses/30/lessons/77884
         DivisorNumberSum divisorNumberSum = new DivisorNumberSum();
+
+        // 문자열 내림차순으로 배치하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12917
+        DescendString descendString = new DescendString();
     }
 }
