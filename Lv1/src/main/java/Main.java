@@ -6,6 +6,10 @@ import programmers.lv1.operation.Average;
 @SuppressWarnings({"unused", "SpellCheckingInspection"})
 public class Main {
     public static void main(String[] args) {
+        /**
+         * Index of problems.
+         * You can find problem by Korean or url.
+         */
         // 자릿수 더하기
         // https://school.programmers.co.kr/learn/courses/30/lessons/12931
         AddDigits addDigits = new AddDigits();
@@ -90,6 +94,8 @@ public class Main {
         // https://school.programmers.co.kr/learn/courses/30/lessons/92334
         ReportResult reportResult = new ReportResult();
 
-        //
+        // 가운데 글자 가져오기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12903
+        GetMidLetter getMidLetter = new GetMidLetter();
     }
 }
