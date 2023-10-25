@@ -1,6 +1,7 @@
 //https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=1&languages=java
 
 import programmers.lv1.*;
+import programmers.lv1.operation.Average;
 
 public class Main {
     public static void main(String[] args) {
@@ -19,6 +20,11 @@ public class Main {
         // 약수의 합
         // https://school.programmers.co.kr/learn/courses/30/lessons/12928
         SumOfDivisor sumOfDivisor = new SumOfDivisor();
+
+        // 평균 구하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12944
+        Average average = new Average();
+
 
     }
 }
