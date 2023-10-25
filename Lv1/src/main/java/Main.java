@@ -28,5 +28,9 @@ public class Main {
         // 자연수 뒤집어 배열로 만들기
         // https://school.programmers.co.kr/learn/courses/30/lessons/12932
         ReverseNumberMakeArray reverseNumberMakeArray = new ReverseNumberMakeArray();
+
+        // X만큼 간격이 있는 N개의 숫자
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12954
+        NnumbersOfXInterval nnumbersOfXInterval = new NnumbersOfXInterval();
     }
 }
