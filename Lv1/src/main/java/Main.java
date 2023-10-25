@@ -73,5 +73,9 @@ public class Main {
         // 나누어 떨어지는 숫자 배열
         // https://school.programmers.co.kr/learn/courses/30/lessons/12910
         DivisibleArray divisibleArray = new DivisibleArray();
+
+        // 핸드폰 번호 가리기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12948
+        HidePhoneNumber hidePhoneNumber = new HidePhoneNumber();
     }
 }
