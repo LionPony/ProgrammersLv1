@@ -4,6 +4,7 @@ import programmers.lv1.*;
 import programmers.lv1.operation.Average;
 import programmers.lv1.operation.DotProduction;
 import programmers.lv1.operation.MatrixAdd;
+import programmers.lv1.operation.GCDLCM;
 
 @SuppressWarnings({"unused", "SpellCheckingInspection"})
 public class Main {
@@ -130,5 +131,10 @@ public class Main {
 
         // 직사각형 별찍기
         // https://school.programmers.co.kr/learn/courses/30/lessons/12969
+        SquareStar squareStar = new SquareStar();
+
+        // 최대공약수와 최소공배수
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12940
+        GCDLCM gcdlcm = new GCDLCM();
     }
 }
