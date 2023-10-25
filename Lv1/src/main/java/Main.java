@@ -44,5 +44,15 @@ public class Main {
         // 정수 제곱근 판별
         // https://school.programmers.co.kr/learn/courses/30/lessons/12934
         DetermineIntegerSQRT determineIntegerSQRT = new DetermineIntegerSQRT();
+
+        // 정수 내림차순으로 배치하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12933
+        IntNaturalOrder intNaturalOrder = new IntNaturalOrder();
+
+        // 하샤드 수
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12947
+        HarshadNumber harshadNumber = new HarshadNumber();
+
+
     }
 }
