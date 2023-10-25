@@ -118,5 +118,9 @@ public class Main {
         // 부족한 금액 계산하기
         // https://school.programmers.co.kr/learn/courses/30/lessons/82612
         CheckInsufficient checkInsufficient = new CheckInsufficient();
+
+        // 문자열 다루기 기본
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12918
+        IsInteger isInteger = new IsInteger();
     }
 }
