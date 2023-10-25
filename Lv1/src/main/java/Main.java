@@ -6,7 +6,7 @@ import programmers.lv1.operation.Average;
 @SuppressWarnings({"unused", "SpellCheckingInspection"})
 public class Main {
     public static void main(String[] args) {
-        /**
+        /*
          * Index of problems.
          * You can find problem by Korean or url.
          */
@@ -97,5 +97,9 @@ public class Main {
         // 가운데 글자 가져오기
         // https://school.programmers.co.kr/learn/courses/30/lessons/12903
         GetMidLetter getMidLetter = new GetMidLetter();
+
+        // 수박수박수박수박수박수?
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12922
+        Watermelon watermelon = new Watermelon();
     }
 }
