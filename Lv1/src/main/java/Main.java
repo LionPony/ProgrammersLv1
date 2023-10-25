@@ -81,5 +81,9 @@ public class Main {
         // 없는 숫자 더하기
         // https://school.programmers.co.kr/learn/courses/30/lessons/86051
         AddMissing addMissing = new AddMissing();
+
+        // 제일 작은 수 제거하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12935
+        RemoveLeast removeLeast = new RemoveLeast();
     }
 }
