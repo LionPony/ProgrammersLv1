@@ -77,5 +77,9 @@ public class Main {
         // 핸드폰 번호 가리기
         // https://school.programmers.co.kr/learn/courses/30/lessons/12948
         HidePhoneNumber hidePhoneNumber = new HidePhoneNumber();
+
+        // 없는 숫자 더하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/86051
+        AddMissing addMissing = new AddMissing();
     }
 }
