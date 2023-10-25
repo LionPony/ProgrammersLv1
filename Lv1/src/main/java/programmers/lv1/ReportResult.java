@@ -42,9 +42,9 @@ public class ReportResult {
         for(String key : reportedMap.keySet()){
             reporterIdList = reportedMap.get(key);
             if(reporterIdList.size() >= k){
-                for(int i = 0; i < reporterIdList.size(); i++){
-                    reporterId = reporterIdList.get(i);
-                    alarmMap.put(reporterId, alarmMap.get(reporterId)+1);
+                for (String s : reporterIdList) {
+                    reporterId = s;
+                    alarmMap.put(reporterId, alarmMap.get(reporterId) + 1);
                 }
             }
         }
