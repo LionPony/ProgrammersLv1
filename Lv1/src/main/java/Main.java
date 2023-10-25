@@ -85,5 +85,9 @@ public class Main {
         // 제일 작은 수 제거하기
         // https://school.programmers.co.kr/learn/courses/30/lessons/12935
         RemoveLeast removeLeast = new RemoveLeast();
+
+        // 신고 결과 받기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/92334
+        ReportResult reportResult = new ReportResult();
     }
 }
