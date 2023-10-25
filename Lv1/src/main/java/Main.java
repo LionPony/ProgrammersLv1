@@ -62,6 +62,9 @@ public class Main {
         // https://school.programmers.co.kr/learn/courses/30/lessons/12943
         CollatzConjecture collatzConjecture = new CollatzConjecture();
 
+        // 서울에서 김서방 찾기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12919
+        FindKimInSeoul findKimInSeoul = new FindKimInSeoul();
 
     }
 }
