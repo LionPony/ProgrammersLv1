@@ -2,6 +2,7 @@
 
 import programmers.lv1.*;
 import programmers.lv1.operation.Average;
+import programmers.lv1.operation.DotProduction;
 
 @SuppressWarnings({"unused", "SpellCheckingInspection"})
 public class Main {
@@ -101,5 +102,9 @@ public class Main {
         // 수박수박수박수박수박수?
         // https://school.programmers.co.kr/learn/courses/30/lessons/12922
         Watermelon watermelon = new Watermelon();
+
+        // 내적
+        // https://school.programmers.co.kr/learn/courses/30/lessons/70128
+        DotProduction dotProduction = new DotProduction();
     }
 }
