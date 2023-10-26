@@ -4,7 +4,6 @@ package programmers.lv1.operation;
 
 import org.junit.Assert;
 import org.junit.Test;
-import programmers.lv1.operation.Budget;
 
 public class BudgetTest {
     // 1<= Budget <= 10,000,000

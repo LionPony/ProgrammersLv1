@@ -2,8 +2,6 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/12947
 package programmers.lv1.operation;
 
-import programmers.lv1.operation.AddDigits;
-import programmers.lv1.operation.Factorization;
 import java.util.ArrayList;
 
 public class HarshadNumber {
