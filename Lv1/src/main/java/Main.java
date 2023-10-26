@@ -154,5 +154,9 @@ public class Main {
         // 크기가 작은 부분 문자열
         // https://school.programmers.co.kr/learn/courses/30/lessons/147355
         SmallSubstrings smallSubstrings = new SmallSubstrings();
+
+        // 삼총사
+        // https://school.programmers.co.kr/learn/courses/30/lessons/131705
+        ThreeMusketeers threeMusketeers = new ThreeMusketeers();
     }
 }
