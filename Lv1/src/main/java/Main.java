@@ -162,5 +162,10 @@ public class Main {
         // 최소직사각형
         // https://school.programmers.co.kr/learn/courses/30/lessons/86491
         LeastSquare leastSquare = new LeastSquare();
+
+        // 시저 암호
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12926
+        Caesar caesar = new Caesar();
+
     }
 }

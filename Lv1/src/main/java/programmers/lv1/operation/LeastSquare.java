@@ -8,8 +8,8 @@ public class LeastSquare {
     public int leastSquare(int[][] sizes){
         int maxOfBig = 0;
         int maxOfSmall = 0;
-        int big = 0;
-        int small = 0;
+        int big;
+        int small;
 
         for(int[] size : sizes){
             big = findBig(size);
