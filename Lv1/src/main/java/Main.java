@@ -1,10 +1,8 @@
 //https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=1&languages=java
 
-import programmers.lv1.*;
-import programmers.lv1.operation.Average;
-import programmers.lv1.operation.DotProduction;
-import programmers.lv1.operation.MatrixAdd;
-import programmers.lv1.operation.GCDLCM;
+import programmers.lv1.dataStructure.*;
+import programmers.lv1.etc.*;
+import programmers.lv1.operation.*;
 
 @SuppressWarnings({"unused", "SpellCheckingInspection"})
 public class Main {
