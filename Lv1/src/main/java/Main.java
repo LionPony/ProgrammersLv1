@@ -144,5 +144,11 @@ public class Main {
         // 3진법 뒤집기
         // https://school.programmers.co.kr/learn/courses/30/lessons/68935
         TernaryReverse ternaryReverse = new TernaryReverse();
+
+        // 예산
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12982
+        Budget budget = new Budget();
+
+        //
     }
 }
