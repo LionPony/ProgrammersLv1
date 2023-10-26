@@ -151,6 +151,8 @@ public class Main {
         // https://school.programmers.co.kr/learn/courses/30/lessons/12930
         WeirdString weirdString = new WeirdString();
 
-
+        // 크기가 작은 부분 문자열
+        // https://school.programmers.co.kr/learn/courses/30/lessons/147355
+        SmallSubstrings smallSubstrings = new SmallSubstrings();
     }
 }
