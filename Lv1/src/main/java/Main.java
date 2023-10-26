@@ -136,5 +136,9 @@ public class Main {
         // 최대공약수와 최소공배수
         // https://school.programmers.co.kr/learn/courses/30/lessons/12940
         GCDLCM gcdlcm = new GCDLCM();
+
+        // 같은 숫자는 싫어
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12906
+        RemoveDuplicated removeDuplicated = new RemoveDuplicated();
     }
 }
