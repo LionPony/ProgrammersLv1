@@ -140,5 +140,9 @@ public class Main {
         // 같은 숫자는 싫어
         // https://school.programmers.co.kr/learn/courses/30/lessons/12906
         RemoveDuplicated removeDuplicated = new RemoveDuplicated();
+
+        // 3진법 뒤집기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/68935
+        TernaryReverse ternaryReverse = new TernaryReverse();
     }
 }
