@@ -1,5 +1,6 @@
 package programmers.lv1.dataStructure;
 
+// CharNode Double Linked List which loops.
 public class CharDLL {
     CharNode head;
     int length;

@@ -1,5 +1,6 @@
 package programmers.lv1.dataStructure;
 
+// Char node to make list.
 public class CharNode {
     char letter;
     CharNode next;

@@ -167,5 +167,9 @@ public class Main {
         // https://school.programmers.co.kr/learn/courses/30/lessons/12926
         Caesar caesar = new Caesar();
 
+        // 숫자 문자열과 영단어
+        // https://school.programmers.co.kr/learn/courses/30/lessons/81301
+        NumericString numericString = new NumericString();
+
     }
 }
