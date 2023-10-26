@@ -149,6 +149,10 @@ public class Main {
         // https://school.programmers.co.kr/learn/courses/30/lessons/12982
         Budget budget = new Budget();
 
-        //
+        // 이상한 문자 만들기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12930
+        WeirdString weirdString = new WeirdString();
+
+
     }
 }
