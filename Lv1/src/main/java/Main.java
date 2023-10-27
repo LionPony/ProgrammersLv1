@@ -1,11 +1,16 @@
 //https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=1&languages=java
 
-import programmers.lv1.*;
-import programmers.lv1.operation.Average;
+import programmers.lv1.dataStructure.*;
+import programmers.lv1.etc.*;
+import programmers.lv1.operation.*;
 
 @SuppressWarnings({"unused", "SpellCheckingInspection"})
 public class Main {
     public static void main(String[] args) {
+        /*
+         * Index of problems.
+         * You can find problem by Korean or url.
+         */
         // 자릿수 더하기
         // https://school.programmers.co.kr/learn/courses/30/lessons/12931
         AddDigits addDigits = new AddDigits();
@@ -89,5 +94,89 @@ public class Main {
         // 신고 결과 받기
         // https://school.programmers.co.kr/learn/courses/30/lessons/92334
         ReportResult reportResult = new ReportResult();
+
+        // 가운데 글자 가져오기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12903
+        GetMidLetter getMidLetter = new GetMidLetter();
+
+        // 수박수박수박수박수박수?
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12922
+        Watermelon watermelon = new Watermelon();
+
+        // 내적
+        // https://school.programmers.co.kr/learn/courses/30/lessons/70128
+        DotProduction dotProduction = new DotProduction();
+
+        // 약수의 개수와 덧셈
+        // https://school.programmers.co.kr/learn/courses/30/lessons/77884
+        DivisorNumberSum divisorNumberSum = new DivisorNumberSum();
+
+        // 문자열 내림차순으로 배치하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12917
+        DescendString descendString = new DescendString();
+
+        // 부족한 금액 계산하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/82612
+        CheckInsufficient checkInsufficient = new CheckInsufficient();
+
+        // 문자열 다루기 기본
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12918
+        IsInteger isInteger = new IsInteger();
+
+        // 행렬의 덧셈
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12950
+        MatrixAdd matrixAdd = new MatrixAdd();
+
+        // 직사각형 별찍기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12969
+        SquareStar squareStar = new SquareStar();
+
+        // 최대공약수와 최소공배수
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12940
+        GCDLCM gcdlcm = new GCDLCM();
+
+        // 같은 숫자는 싫어
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12906
+        RemoveDuplicated removeDuplicated = new RemoveDuplicated();
+
+        // 3진법 뒤집기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/68935
+        TernaryReverse ternaryReverse = new TernaryReverse();
+
+        // 예산
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12982
+        Budget budget = new Budget();
+
+        // 이상한 문자 만들기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12930
+        WeirdString weirdString = new WeirdString();
+
+        // 크기가 작은 부분 문자열
+        // https://school.programmers.co.kr/learn/courses/30/lessons/147355
+        SmallSubstrings smallSubstrings = new SmallSubstrings();
+
+        // 삼총사
+        // https://school.programmers.co.kr/learn/courses/30/lessons/131705
+        ThreeMusketeers threeMusketeers = new ThreeMusketeers();
+
+        // 최소직사각형
+        // https://school.programmers.co.kr/learn/courses/30/lessons/86491
+        LeastSquare leastSquare = new LeastSquare();
+
+        // 시저 암호
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12926
+        Caesar caesar = new Caesar();
+
+        // 숫자 문자열과 영단어
+        // https://school.programmers.co.kr/learn/courses/30/lessons/81301
+        NumericString numericString = new NumericString();
+
+        // 가장 가까운 글자
+        // https://school.programmers.co.kr/learn/courses/30/lessons/142086
+        ClosestLetter closestLetter = new ClosestLetter();
+
+        // 공원 산책
+        // https://school.programmers.co.kr/learn/courses/30/lessons/172928
+        ParkWalk parkWalk = new ParkWalk();
     }
 }
