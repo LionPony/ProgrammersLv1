@@ -6,7 +6,10 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class ClosestLetterTest {
-
+    /*  Given string s, each letter in s wants to mark closest same letter
+     *  which appears before it comes.
+     *  mark is distance between same letter.
+     */
     @Test
     public void closestLetter() {
         ClosestLetter closestLetter = new ClosestLetter();
