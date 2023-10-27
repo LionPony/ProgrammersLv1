@@ -6,7 +6,13 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class ParkWalkTest {
-
+    /** Find last position.
+     * Park is 2D array of parkMap. S is start, O is accessible, X is not accessible.
+     * 3<= park.lenght, park[i].length <= 50
+     * Routes are ways you move.
+     * 1 <= routes.length <= 50
+     * If x is in the way or out of park map. Ignore that route.
+     **/
     @Test
     public void parkWalk() {
         ParkWalk parkWalk = new ParkWalk();
