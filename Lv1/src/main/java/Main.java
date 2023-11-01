@@ -178,5 +178,13 @@ public class Main {
         // 공원 산책
         // https://school.programmers.co.kr/learn/courses/30/lessons/172928
         ParkWalk parkWalk = new ParkWalk();
+
+        // K번째 수
+        // https://school.programmers.co.kr/learn/courses/30/lessons/42748
+        KthNumber kthNumber = new KthNumber();
+
+        // 문자열 내 마음대로 정렬하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12915
+        SortStringMyMind sortStringMyMind = new SortStringMyMind();
     }
 }
