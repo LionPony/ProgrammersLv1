@@ -191,6 +191,14 @@ public class Main {
         // https://school.programmers.co.kr/learn/courses/30/lessons/17681
         SecretMap secretMap = new SecretMap();
 
+        // 푸드 파이트 대회
+        // https://school.programmers.co.kr/learn/courses/30/lessons/134240
+        FoodFight foodFight = new FoodFight();
 
+        // 두 개 뽑아서 더하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/68644
+        Pick2Sum pick2Sum = new Pick2Sum();
+
+        //
     }
 }
