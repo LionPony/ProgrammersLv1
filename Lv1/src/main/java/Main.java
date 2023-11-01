@@ -186,5 +186,11 @@ public class Main {
         // 문자열 내 마음대로 정렬하기
         // https://school.programmers.co.kr/learn/courses/30/lessons/12915
         SortStringMyMind sortStringMyMind = new SortStringMyMind();
+
+        // [1차]비밀지도
+        // https://school.programmers.co.kr/learn/courses/30/lessons/17681
+        SecretMap secretMap = new SecretMap();
+
+
     }
 }
