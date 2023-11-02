@@ -223,6 +223,12 @@ public class Main {
         // https://school.programmers.co.kr/learn/courses/30/lessons/1845
         PhonecketMon phonecketMon = new PhonecketMon();
 
-        //
+        // 과일 장수
+        // https://school.programmers.co.kr/learn/courses/30/lessons/135808
+        FruitSeller fruitSeller = new FruitSeller();
+
+        // 모의고사
+        // https://school.programmers.co.kr/learn/courses/30/lessons/42840
+        MockExam mockExam = new MockExam();
     }
 }

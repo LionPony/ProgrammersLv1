@@ -6,7 +6,8 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class PhonecketMonTest {
-
+    // Pick nums.length/2 elements in nums.
+    // Find out how many species in what you choose.
     @Test
     public void phonecketMon() {
         PhonecketMon phonecketMon = new PhonecketMon();
