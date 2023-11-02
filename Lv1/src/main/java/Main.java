@@ -230,5 +230,9 @@ public class Main {
         // 모의고사
         // https://school.programmers.co.kr/learn/courses/30/lessons/42840
         MockExam mockExam = new MockExam();
+
+        // 소수 만들기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12977
+        MakingPrimeNumber makingPrimeNumber = new MakingPrimeNumber();
     }
 }
