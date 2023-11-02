@@ -234,5 +234,13 @@ public class Main {
         // 소수 만들기
         // https://school.programmers.co.kr/learn/courses/30/lessons/12977
         MakingPrimeNumber makingPrimeNumber = new MakingPrimeNumber();
+
+        // 소수 찾기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12921
+        FindPrime findPrime = new FindPrime();
+
+        // 기사단원의 무기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/136798
+        WeaponOfKnight weaponOfKnight = new WeaponOfKnight();
     }
 }
