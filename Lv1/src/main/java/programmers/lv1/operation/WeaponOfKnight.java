@@ -15,7 +15,7 @@ public class WeaponOfKnight {
      */
     public int weaponOfKnight(int number, int limit, int power){
         Factorization factorization = new Factorization();
-        ArrayList<Integer> factors = new ArrayList<>();
+        ArrayList<Integer> factors;
         int steelWeight = 0;
 
         for(int i = 1; i <= number; i++){
