@@ -199,6 +199,30 @@ public class Main {
         // https://school.programmers.co.kr/learn/courses/30/lessons/68644
         Pick2Sum pick2Sum = new Pick2Sum();
 
+        // 콜라 문제
+        // https://school.programmers.co.kr/learn/courses/30/lessons/132267
+        ColaProblem colaProblem = new ColaProblem();
+
+        // 추억 점수
+        // https://school.programmers.co.kr/learn/courses/30/lessons/176963
+        MemoryScore memoryScore = new MemoryScore();
+
+        // 명예의 전당 (1)
+        // https://school.programmers.co.kr/learn/courses/30/lessons/138477
+        HallOfFame hallOfFame = new HallOfFame();
+
+        // 카드 뭉치
+        // https://school.programmers.co.kr/learn/courses/30/lessons/159994
+        CardDeck cardDeck = new CardDeck();
+
+        // 2016년
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12901
+        TwentySixteen twentySixteen = new TwentySixteen();
+
+        // 폰켓몬
+        // https://school.programmers.co.kr/learn/courses/30/lessons/1845
+        PhonecketMon phonecketMon = new PhonecketMon();
+
         //
     }
 }
