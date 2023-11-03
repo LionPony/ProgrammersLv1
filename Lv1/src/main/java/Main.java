@@ -178,5 +178,89 @@ public class Main {
         // 공원 산책
         // https://school.programmers.co.kr/learn/courses/30/lessons/172928
         ParkWalk parkWalk = new ParkWalk();
+
+        // K번째 수
+        // https://school.programmers.co.kr/learn/courses/30/lessons/42748
+        KthNumber kthNumber = new KthNumber();
+
+        // 문자열 내 마음대로 정렬하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12915
+        SortStringMyMind sortStringMyMind = new SortStringMyMind();
+
+        // [1차]비밀지도
+        // https://school.programmers.co.kr/learn/courses/30/lessons/17681
+        SecretMap secretMap = new SecretMap();
+
+        // 푸드 파이트 대회
+        // https://school.programmers.co.kr/learn/courses/30/lessons/134240
+        FoodFight foodFight = new FoodFight();
+
+        // 두 개 뽑아서 더하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/68644
+        Pick2Sum pick2Sum = new Pick2Sum();
+
+        // 콜라 문제
+        // https://school.programmers.co.kr/learn/courses/30/lessons/132267
+        ColaProblem colaProblem = new ColaProblem();
+
+        // 추억 점수
+        // https://school.programmers.co.kr/learn/courses/30/lessons/176963
+        MemoryScore memoryScore = new MemoryScore();
+
+        // 명예의 전당 (1)
+        // https://school.programmers.co.kr/learn/courses/30/lessons/138477
+        HallOfFame hallOfFame = new HallOfFame();
+
+        // 카드 뭉치
+        // https://school.programmers.co.kr/learn/courses/30/lessons/159994
+        CardDeck cardDeck = new CardDeck();
+
+        // 2016년
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12901
+        TwentySixteen twentySixteen = new TwentySixteen();
+
+        // 폰켓몬
+        // https://school.programmers.co.kr/learn/courses/30/lessons/1845
+        PhonecketMon phonecketMon = new PhonecketMon();
+
+        // 과일 장수
+        // https://school.programmers.co.kr/learn/courses/30/lessons/135808
+        FruitSeller fruitSeller = new FruitSeller();
+
+        // 모의고사
+        // https://school.programmers.co.kr/learn/courses/30/lessons/42840
+        MockExam mockExam = new MockExam();
+
+        // 소수 만들기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12977
+        MakingPrimeNumber makingPrimeNumber = new MakingPrimeNumber();
+
+        // 소수 찾기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/12921
+        FindPrime findPrime = new FindPrime();
+
+        // 기사단원의 무기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/136798
+        WeaponOfKnight weaponOfKnight = new WeaponOfKnight();
+
+        // 덧칠하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/161989
+        Paint paint = new Paint();
+
+        // 실패율
+        // https://school.programmers.co.kr/learn/courses/30/lessons/42889
+        FailRate failRate = new FailRate();
+
+        // [1차] 다트 게임
+        // https://school.programmers.co.kr/learn/courses/30/lessons/17682
+        DartGame dartGame = new DartGame();
+
+        // 옹알이 (2)
+        // https://school.programmers.co.kr/learn/courses/30/lessons/133499
+        Babbling2 babbling2 = new Babbling2();
+
+        // 달리기 경주
+        // https://school.programmers.co.kr/learn/courses/30/lessons/178871
+        Race race = new Race();
     }
 }
