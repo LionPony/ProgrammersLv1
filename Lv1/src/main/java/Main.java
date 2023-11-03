@@ -4,6 +4,8 @@ import programmers.lv1.dataStructure.*;
 import programmers.lv1.etc.*;
 import programmers.lv1.operation.*;
 
+import java.util.Random;
+
 @SuppressWarnings({"unused", "SpellCheckingInspection"})
 public class Main {
     public static void main(String[] args) {
@@ -242,5 +244,25 @@ public class Main {
         // 기사단원의 무기
         // https://school.programmers.co.kr/learn/courses/30/lessons/136798
         WeaponOfKnight weaponOfKnight = new WeaponOfKnight();
+
+        // 덧칠하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/161989
+        Paint paint = new Paint();
+
+        // 실패율
+        // https://school.programmers.co.kr/learn/courses/30/lessons/42889
+        FailRate failRate = new FailRate();
+
+        // [1차] 다트 게임
+        // https://school.programmers.co.kr/learn/courses/30/lessons/17682
+        DartGame dartGame = new DartGame();
+
+        // 옹알이 (2)
+        // https://school.programmers.co.kr/learn/courses/30/lessons/133499
+        Babbling2 babbling2 = new Babbling2();
+
+        // 달리기 경주
+        // https://school.programmers.co.kr/learn/courses/30/lessons/178871
+        Race race = new Race();
     }
 }
