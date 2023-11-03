@@ -4,8 +4,6 @@ import programmers.lv1.dataStructure.*;
 import programmers.lv1.etc.*;
 import programmers.lv1.operation.*;
 
-import java.util.Random;
-
 @SuppressWarnings({"unused", "SpellCheckingInspection"})
 public class Main {
     public static void main(String[] args) {
