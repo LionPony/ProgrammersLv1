@@ -263,6 +263,16 @@ public class Main {
         // https://school.programmers.co.kr/learn/courses/30/lessons/178871
         Race race = new Race();
 
+        // 로또의 최고 순위와 최저 순위
+        // https://school.programmers.co.kr/learn/courses/30/lessons/77484
+        LottoLowHigh lottoLowHigh = new LottoLowHigh();
 
+        // 숫자 짝꿍
+        // https://school.programmers.co.kr/learn/courses/30/lessons/131128
+        NumberPair numberPair = new NumberPair();
+
+        // 체육복
+        // https://school.programmers.co.kr/learn/courses/30/lessons/42862
+        GymSuit gymsuit = new GymSuit();
     }
 }
