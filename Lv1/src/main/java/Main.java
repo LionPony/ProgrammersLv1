@@ -274,5 +274,9 @@ public class Main {
         // 체육복
         // https://school.programmers.co.kr/learn/courses/30/lessons/42862
         GymSuit gymsuit = new GymSuit();
+
+        // 완주하지 못한 선수
+        // https://school.programmers.co.kr/learn/courses/30/lessons/42576
+        WhoNotFinish whoNotFinish = new WhoNotFinish();
     }
 }

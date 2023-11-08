@@ -6,7 +6,12 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class GymSuitTest {
-
+    /**
+     * Some of the students lost there gymsuit.
+     * Some others have reseve so they can hand over them.
+     * But gymsuit has size they can only lend front and back.
+     * Figure out the most count of get gymsuit.
+     */
     @Test
     public void gymSuit() {
         GymSuit gymSuit = new GymSuit();
