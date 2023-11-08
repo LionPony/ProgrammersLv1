@@ -1,6 +1,6 @@
 // 둘만의 암호
 // https://school.programmers.co.kr/learn/courses/30/lessons/155652
-package programmers.lv1.dataStructure;
+package programmers.lv1.etc;
 
 import java.util.HashSet;
 

@@ -1,9 +1,10 @@
 // 둘만의 암호
 // https://school.programmers.co.kr/learn/courses/30/lessons/155652
-package programmers.lv1.dataStructure;
+package programmers.lv1.etc;
 
 import org.junit.Assert;
 import org.junit.Test;
+import programmers.lv1.etc.CipherBetweenTwo;
 
 public class CipherBetweenTwoTest {
 /**
