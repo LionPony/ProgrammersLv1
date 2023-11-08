@@ -262,5 +262,41 @@ public class Main {
         // 달리기 경주
         // https://school.programmers.co.kr/learn/courses/30/lessons/178871
         Race race = new Race();
+
+        // 로또의 최고 순위와 최저 순위
+        // https://school.programmers.co.kr/learn/courses/30/lessons/77484
+        LottoLowHigh lottoLowHigh = new LottoLowHigh();
+
+        // 숫자 짝꿍
+        // https://school.programmers.co.kr/learn/courses/30/lessons/131128
+        NumberPair numberPair = new NumberPair();
+
+        // 체육복
+        // https://school.programmers.co.kr/learn/courses/30/lessons/42862
+        GymSuit gymsuit = new GymSuit();
+
+        // 완주하지 못한 선수
+        // https://school.programmers.co.kr/learn/courses/30/lessons/42576
+        WhoNotFinish whoNotFinish = new WhoNotFinish();
+
+        // 문자열 나누기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/140108
+        DivideString divideString = new DivideString();
+
+        // 대충 만든 자판
+        // https://school.programmers.co.kr/learn/courses/30/lessons/160586
+        WeirdKeyBoard weirdKeyBoard = new WeirdKeyBoard();
+
+        // 둘만의 암호
+        // https://school.programmers.co.kr/learn/courses/30/lessons/155652
+        CipherBetweenTwo cipherBetweenTwo = new CipherBetweenTwo();
+
+        // 크레인 인형뽑기 게임
+        // https://school.programmers.co.kr/learn/courses/30/lessons/64061
+        CraneClaw craneClaw = new CraneClaw();
+
+        // 개인정보 수집 유효기간
+        // https://school.programmers.co.kr/learn/courses/30/lessons/150370
+        Validation validation = new Validation();
     }
 }
