@@ -1,9 +1,10 @@
+// 문자열 나누기
+// https://school.programmers.co.kr/learn/courses/30/lessons/140108
 package programmers.lv1.etc;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
 
 public class DivideStringTest {
     /**

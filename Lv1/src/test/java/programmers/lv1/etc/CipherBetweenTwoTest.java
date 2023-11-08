@@ -4,7 +4,6 @@ package programmers.lv1.etc;
 
 import org.junit.Assert;
 import org.junit.Test;
-import programmers.lv1.etc.CipherBetweenTwo;
 
 public class CipherBetweenTwoTest {
 /**

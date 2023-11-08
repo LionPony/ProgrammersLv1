@@ -31,11 +31,10 @@ public class WeirdKeyBoard {
         for(int i = 0; i < targets.length; i++){
             String[] target = targets[i].split("");
             int sum = 0;
-            for(int j = 0; j < target.length; j++){
-                if(keyMaps.containsKey(target[j])){
-                    sum += keyMaps.get(target[j])+1;
-                }
-                else{
+            for (String s : target) {
+                if (keyMaps.containsKey(s)) {
+                    sum += keyMaps.get(s) + 1;
+                } else {
                     sum = -1;
                     break;
                 }
