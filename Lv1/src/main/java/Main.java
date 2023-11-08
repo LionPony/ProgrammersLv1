@@ -278,5 +278,13 @@ public class Main {
         // 완주하지 못한 선수
         // https://school.programmers.co.kr/learn/courses/30/lessons/42576
         WhoNotFinish whoNotFinish = new WhoNotFinish();
+
+        // 문자열 나누기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/140108
+        DivideString divideString = new DivideString();
+
+        // 대충 만든 자판
+        // https://school.programmers.co.kr/learn/courses/30/lessons/160586
+
     }
 }
