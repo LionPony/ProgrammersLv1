@@ -302,5 +302,17 @@ public class Main {
         // 바탕화면 정리
         // https://school.programmers.co.kr/learn/courses/30/lessons/161990
         CleanWallpaper cleanWallpaper = new CleanWallpaper();
+
+        // 키패드 누르기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/67256
+        PushKeypad PushKeypad = new PushKeypad();
+
+        // 햄버거 만들기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/133502
+        MakingHamburger makingHamburger = new MakingHamburger();
+        
+        // 신규 아이디 추천
+        // https://school.programmers.co.kr/learn/courses/30/lessons/72410
+        RecommendNewId recommendNewId = new RecommendNewId();
     }
 }
