@@ -314,5 +314,9 @@ public class Main {
         // 신규 아이디 추천
         // https://school.programmers.co.kr/learn/courses/30/lessons/72410
         RecommendNewId recommendNewId = new RecommendNewId();
+
+        // 성격 유형 검사하기
+        // https://school.programmers.co.kr/learn/courses/30/lessons/118666
+        MBTITest mbtiTest = new MBTITest();
     }
 }
